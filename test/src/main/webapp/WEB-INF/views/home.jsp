@@ -8,7 +8,8 @@
 <h1>
 	Hello world! 22
 	feature-A
-	깃허브 너무 어려워...dd
+	feature-B
+	
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
